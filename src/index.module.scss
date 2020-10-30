@@ -1,0 +1,4 @@
+@import "./mixins/mixins";
+.contaner {
+  @include backgroundURL("./index.svg");
+}

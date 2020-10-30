@@ -1,0 +1,3 @@
+@mixin backgroundURL($file) {
+  background-image: url($file);
+}
